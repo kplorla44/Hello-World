@@ -1,2 +1,2 @@
 # Hello-World
-Case Demo
+Class Demo
